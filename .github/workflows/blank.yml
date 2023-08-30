@@ -32,7 +32,7 @@ jobs:
           echo test, and deploy your project.
       - uses: Platane/snk@v3
         with: 
-         github_user_name: ${{ github.repository_owner }}
+         github_user_name: matheus-brasil11
          outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
