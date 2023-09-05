@@ -1,7 +1,7 @@
 ### Olá, me chamo Matheus Brasil 👋
 ##
 - 👨🏼‍💻 Profissional focado na área de desenvolvimento FullStack
-- 👨‍🎓 Iniciando o 4º semestre no curso de Análise e Desenvolvimento de Sistemas
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 ##
 
 ### Skills :
